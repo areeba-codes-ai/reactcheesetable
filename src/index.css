@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    margin-top: 20px;
+    color: #005461;
+}
+p {
+    color: #005461;
+    margin-bottom: 20px;
+}
+
+table{
+    width: 70%;
+    height: 300px;
+    margin: auto;
+    border-collapse: collapse;
+    color: #334443;
+}
+th, td {
+    border: 1px solid #334443;
+    height: 35px;
+    text-align: center;
+}
+th:nth-of-type(n){
+    background-color: #C0B87A;
+
+}
